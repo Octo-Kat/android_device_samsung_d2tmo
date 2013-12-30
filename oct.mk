@@ -12,6 +12,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT="samsung/d2uc/d2att:4.1.2/JZO54K/T999UVDMD5:user/release-keys" \
     PRIVATE_BUILD_DESC="d2uc-user 4.1.2 JZO54K T999UVDMD5 release-keys"
 
-PRODUCT_NAME := cm_d2tmo
+PRODUCT_NAME := oct_d2tmo
 PRODUCT_DEVICE := d2tmo
 
