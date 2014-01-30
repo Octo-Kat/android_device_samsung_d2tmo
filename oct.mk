@@ -4,6 +4,7 @@ $(call inherit-product, device/samsung/d2tmo/full_d2tmo.mk)
 $(call inherit-product, vendor/oct/config/nfc_enhanced.mk)
 
 # Inherit some common OctOS stuff.
+$(call inherit-product, vendor/oct/config/gsm.mk)
 $(call inherit-product, vendor/oct/config/common_full_phone.mk)
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
